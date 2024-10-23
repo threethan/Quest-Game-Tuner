@@ -1,5 +1,5 @@
 # Quest Game Tuner
-Unlock the full power of Meta Quest headsets by modifying system parameters. [Get Quest Game Tuner on itch.io!](https://itch.io/game/edit/2781709)
+Unlock the full power of Meta Quest headsets by modifying system parameters. [Get Quest Game Tuner on itch.io!]([https://itch.io/game/edit/2781709](https://threethan.itch.io/quest-game-tuner)
 
 > [!NOTE]
 > This repo is for updates and issues, and does not contain source code.
